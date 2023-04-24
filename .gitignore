@@ -1,0 +1,20 @@
+# General
+.DS_Store
+*.log
+*.swp
+*.bak
+*.tmp
+*.sublime*
+.vscode/
+
+# Go
+*.exe
+*.test
+*.out
+*.prof
+/vendor/
+bin/
+pkg/
+
+# TypeScript
+.tsbuildinfo
